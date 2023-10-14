@@ -3,4 +3,4 @@ Clustering is one of the data mining techniques used for grouping a number of da
 
 Content on code/ README.md:
 1. Intership Report : Fakhri Kamil_20337015_Zilrahmi S.Pd., M.Si
-2. R- Srudio Code : Hierarchical Clustering code in R-studio
+2. Hierarcical Cluster Analysis.R : Hierarchical Clustering code using R-studio
